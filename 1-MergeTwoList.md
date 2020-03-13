@@ -7,7 +7,7 @@
  * 测试数据：1 3 5  / 2 4 6 
  * 输出数据：1 2 3 4 5 6 
  */
-
+```
 #include<iostream>
 #include<malloc.h>
 using namespace std;
@@ -114,3 +114,4 @@ int main() {
     //ListTraverse(merge2(pHead1->next, pHead2->next));//除去头结点，故加next
     return 0;
 }
+```
