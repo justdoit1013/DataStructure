@@ -108,6 +108,7 @@ int main() {
     cout << "输入两个递增链表：" << endl;
     InitList(pHead1);
     InitList(pHead2);
+    //测试的时候不要两个一起输出，因为前后链表指针会影响，最好分开测试
     cout << "带头结点的链表合并方法1：";
     ListTraverse(merge1(pHead1->next, pHead2->next));//除去头结点，故加next
     //cout << "带头结点的链表递归合并：";
