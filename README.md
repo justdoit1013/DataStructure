@@ -5,5 +5,5 @@
 3.链表的逆置——三种方法实现
 推荐学习《数据结构-C语言描述》严蔚敏
 
-# MergeTwoList.cppp
+# MergeTwoList.cpp
 主要以问题为导向，实现两个增序链表的增序合并
